@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy"
-gem "webrick"
 
 group :jekyll_plugins do
   # If you have any plugins, put them here!
